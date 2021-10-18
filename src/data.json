@@ -1,0 +1,17 @@
+[
+  {
+    "name": "bulbasaur",
+    "types": ["grass", "poison"],
+    "id": 1
+  },
+  {
+    "name": "ivysaur",
+    "types": ["grass", "poison"],
+    "id": 2
+  },
+  {
+    "name": "venusaur",
+    "types": ["grass", "poison"],
+    "id": 3
+  }
+]
